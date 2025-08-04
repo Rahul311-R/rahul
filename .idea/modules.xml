@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chatgpt/Chatgpt.iml" filepath="$PROJECT_DIR$/Chatgpt/Chatgpt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Teusko/Teusko.iml" filepath="$PROJECT_DIR$/Teusko/Teusko.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mosh/mosh.iml" filepath="$PROJECT_DIR$/mosh/mosh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/untitled.iml" filepath="$PROJECT_DIR$/untitled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOPS/untitled1.iml" filepath="$PROJECT_DIR$/OOPS/untitled1.iml" />
+    </modules>
+  </component>
+</project>
